@@ -55,8 +55,10 @@ This cleaned dataset can now be used for:
 ```bash
 ├── Cleaned Data.xlsx         # Final cleaned dataset
 ├── README.md                 # Project description
-└── (optionally) visuals/     # Power BI visuals or charts
+└── DashBoard ScreenShoot/     # Power BI visual
 ```
+### DashBoard:
+<img width="988" height="551" alt="Screenshot 2025-07-14 at 5 32 10 AM" src="https://github.com/user-attachments/assets/31d2a116-2c20-49f9-8899-1ca2a69ca7da" />
 
 ---
 
@@ -72,9 +74,9 @@ This cleaned dataset can now be used for:
 
 ### 👤 Author
 
-**Awab Abdalla**
-GitHub: [@Pinkkygold](https://github.com/Pinkkygold)
+**Awab Idris**
 
----
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/awab-abdalla) or follow my projects on [GitHub](https://github.com/Pinkkygold) for more collaborations and updates!
 
-Would you like me to add this directly to a file and commit it for you?
+
+⭐ If you liked this project, don't forget to star this repo and share your feedback!
